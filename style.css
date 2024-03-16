@@ -1,0 +1,14 @@
+.card-title {
+  text-transform: uppercase;
+  margin-bottom: 1rem;
+}
+
+.card-body {
+  background-color: #fff0ee;
+  padding: 1 rem 1.5rem;
+}
+
+div .btn-primary {
+  background-color: #b10849;
+  border: #b10849;
+}
